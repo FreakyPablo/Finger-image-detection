@@ -1,5 +1,6 @@
 # Finger-image-detection
 Un programme permettant de compter le nombre de doigts sur une image.
+Etant étudiant, ce projet reste simple et perfectible, merci de faire preuve de bienveillance. 
 
 ## Prérequis 
 - bibliothèque numpy 
