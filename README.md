@@ -12,7 +12,7 @@ pip install opencv-python
 ```
 
 ## RoadMap 
-- #### Changement de la méthode de détection des doigts
+- ### Changement de la méthode de détection des doigts
 Méthode détection améliorable, loupe parfois un doigt si il est trop petit 
 
 - Prise en charge d'un flux vidéo en direct 
